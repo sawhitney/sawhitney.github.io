@@ -1,0 +1,1 @@
+Samantha Whitney sawhitney@my.waketech.edu. My github account is being used as an experimental tool at creating and cloning a read me file. the repository I created is an experimental tool. In order to clone the repository I downloaded the desktop app to my mac and followed the instructions in the lab assignment.
